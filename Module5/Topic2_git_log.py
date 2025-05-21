@@ -148,25 +148,45 @@ Example:
 b123abc (HEAD -> main) Add: Hello msg
 a223bcf Initial commit
 
+🧠 git log-la Extra Superpower Commands:
+
+
+| Command                         | Description                    |
+| ------------------------------- | ------------------------------ |
+| `git log`                       | Full details                   |
+| `git log --oneline`             | Short & clean                  |
+| `git log --graph`               | Branch / merge path visually   |
+| `git log -p`                    | Code diff-um kaamikkum         |
+| `git log --author="Manick"`     | Specific author commit history |
+| `git log --since="2 weeks ago"` | Time-based filter              |
 
 
 
+💥 Bonus:
+Want just last 2 commits?
+
+
+git log -2
+
+Want in one line?
+git log --oneline -3
+
+
+💬 Summary:
+
+
+| Git Command         | Meaning (Tanglish)                   |
+| ------------------- | ------------------------------------ |
+| `git log`           | Full commit history (kathai book)    |
+| `git log --oneline` | Short kathai summary                 |
+| `git log -p`        | Difference-um kaamikkum commit wise  |
+| `git log --graph`   | Diagram mathiri branch/merge history |
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔚 Final Kathai:
+“Namma repo-ku oru diary irukku – adhu dhaan git log”
+Yaaru, enna, eppo, edhuku nu laam trace pannanum-na, idhu thaan 👑
 
 
 

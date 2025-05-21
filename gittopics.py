@@ -96,9 +96,7 @@ Repo create panrathu (public/private)
 
 Local repo connect:
 
-bash
-Copy
-Edit
+
 git remote add origin https://github.com/username/repo.git  
 git push -u origin main
 🔥 MODULE 9: Git Remote Commands
