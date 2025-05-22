@@ -151,9 +151,7 @@ Life-saving tip after hard reset or wrong delete
 🔥 MODULE 16: Git Aliases
 Command shortcut:
 
-bash
-Copy
-Edit
+
 git config --global alias.st status
 git config --global alias.cm "commit -m"
 🔥 MODULE 17: Git Internals (Advanced)
