@@ -1,5 +1,5 @@
 """🔥 MODULE 9: Git Remote Commands
-git clone – copy repo from GitHub
+ 
 
 git push – upload changes
 
